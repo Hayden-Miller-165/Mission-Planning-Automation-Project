@@ -1,9 +1,8 @@
 #! python3
 """
 
-Program to export current weather forecast of airports using Aviationweather.gov
-
-    Pull data day before
+Program to export current weather forecast of airports using Aviationweather.gov.  Resource creates spreadsheet indicating which airport 
+locations and upcoming times have favorable or unfavorable weather conditions based on cloud coverage and flight visibility guidelines.
 
 """
 
