@@ -3,16 +3,7 @@
 OVERVIEW: Program to export current weather forecast of airports using Aviationweather.gov.  Creates spreadsheet indicating which airport 
 locations and upcoming times have favorable or unfavorable weather conditions based on cloud coverage and flight visibility guidelines.
 
-Program uses the following packages to operation;
-  datetime 
-  requests 
-  pandas
-  re 
-  os
-  tkinter
-  ctypes
-  BeautifulSoup
-
+Program uses the following packages to operation; datetime, requests, pandas, re, os, tkinter, ctypes, BeautifulSoup
 
 1. Weather rules for condition output in spreadsheet are stored in custom function.
 2. Tkinter GUI to insert airport codes to be used for web scrapping feature on the Aviation website.
