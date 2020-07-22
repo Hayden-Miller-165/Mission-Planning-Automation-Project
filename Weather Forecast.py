@@ -24,8 +24,7 @@ def WeatherRules(weather):
     return condition
 
 # Changes current working directory to folder for weather data pulls
-os.chdir('C:\\Users\\User\\Documents\\Python Scripts\\Mission Planning Automation\\' +
-         'Aviation Weather Pulls')
+os.chdir("FILE LOCATION HERE")
 
 MessageBox = ctypes.windll.user32.MessageBoxW
 
